@@ -2,7 +2,7 @@
 async function carregarUnidades() {
   const select = document.getElementById('unidadeSelect');
   try {
-    const response = await fetch('http://localhost:8000/unidades');
+    const response = await fetch('/unidades');
     const unidades = await response.json();
     select.innerHTML = '<option value="">Selecione a unidade</option>';
     unidades.forEach(u => {
@@ -37,7 +37,7 @@ document.getElementById('submitBtn').addEventListener('click', async () => {
 
   // Enviar para o backend
   try {
-    const response = await fetch('http://localhost:8000/predict', {
+    const response = await fetch('/predict', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
