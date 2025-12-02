@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Previsões Dengue — Neural Network</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">🦟 Previsão Dengue — Rede Neural</div>
+    </header>
+
+    <main class="container">
+      <section class="panel">
+        <h1>Rede Neural</h1>
+        <p class="lead">
+          Preencha as datas — o sistema calculará automaticamente os dias entre
+          eventos. Selecione a unidade.
+        </p>
+        <div class="controls">
+          <div>
+            <label for="unidadeSelect">Unidade</label>
+            <select id="unidadeSelect">
+              <option value="">Carregando unidades...</option>
+            </select>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Preencha as datas</h2>
+        <form id="dynamicForm">
+          <div class="field">
+            <label for="dataSintoma">Data do 1º Sintoma</label>
+            <input type="date" id="dataSintoma" />
+          </div>
+
+          <div class="field">
+            <label for="dataNotificacao">Data da Notificação</label>
+            <input type="date" id="dataNotificacao" />
+          </div>
+
+          <div class="field">
+            <label for="dataInvestigacao">Data da Investigação</label>
+            <input type="date" id="dataInvestigacao" />
+          </div>
+        </form>
+
+        <div class="actions">
+          <button id="submitBtn" class="btn primary">Enviar e Prever</button>
+          <button id="resetBtn" class="btn">Limpar</button>
+        </div>
+
+        <div id="resultBox" class="result oculto"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      Projeto de faculdade — Rede Neural para Dengue
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
