@@ -11,14 +11,24 @@ from typing import Optional, List
 # ================================
 # 🔹 Carregar modelos e estruturas
 # ================================
-model = tf.keras.models.load_model("modelo_dengue.h5")
+import os
 
-with open("scaler.pkl", "rb") as f:
+# Caminho da raiz do projeto (um nível acima de backend/)
+ROOT_DIR = os.path.dirname(os.path.dirname(__file__))
+
+# Modelo
+model_path = os.path.join(ROOT_DIR, "modelo_dengue.h5")
+model = tf.keras.models.load_model(model_path)
+
+# Scaler
+scaler_path = os.path.join(ROOT_DIR, "scaler.pkl")
+with open(scaler_path, "rb") as f:
     scaler = pickle.load(f)
 
-with open("colunas.json", "r") as f:
+# Colunas
+colunas_path = os.path.join(ROOT_DIR, "colunas.json")
+with open(colunas_path, "r") as f:
     colunas = json.load(f)
-
 # ================================
 # 🔹 FastAPI
 # ================================
