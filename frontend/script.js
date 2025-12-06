@@ -3,12 +3,16 @@ async function carregarUnidades() {
   const select = document.getElementById('unidadeSelect');
   try {
     const response = await fetch('/unidades');
-    const unidades = await response.json();
-    select.innerHTML = '<option value="">Selecione a unidade</option>';
+    const unidades = await response.json(); 
+    
+    select.innerHTML = '<option value="">Selecione a unidade (ID ou Nome)</option>';
+    
+    unidades.sort((a, b) => a.nome.localeCompare(b.nome));
+
     unidades.forEach(u => {
       const opt = document.createElement('option');
-      opt.value = u;
-      opt.textContent = u;
+      opt.value = u.id;   
+      opt.textContent = `${u.id} — ${u.nome}`; 
       select.appendChild(opt);
     });
   } catch (err) {
@@ -24,9 +28,10 @@ document.getElementById('submitBtn').addEventListener('click', async () => {
   const dataSintoma = new Date(document.getElementById('dataSintoma').value);
   const dataNotificacao = new Date(document.getElementById('dataNotificacao').value);
   const dataInvestigacao = new Date(document.getElementById('dataInvestigacao').value);
-  const unidade = document.getElementById('unidadeSelect').value;
+  
+  const unidadeId = document.getElementById('unidadeSelect').value;
 
-  if (!dataSintoma || !dataNotificacao || !dataInvestigacao || !unidade) {
+  if (!dataSintoma || !dataNotificacao || !dataInvestigacao || !unidadeId) {
     alert("Preencha todas as datas e selecione a unidade!");
     return;
   }
@@ -43,7 +48,7 @@ document.getElementById('submitBtn').addEventListener('click', async () => {
       body: JSON.stringify({
         tempo_sin_pri_notific: tempoSinPriNotific,
         tempo_invest_encerrar: tempoInvestEncerrar,
-        unidade: unidade
+        unidade: unidadeId // Envia o ID
       })
     });
 
@@ -62,9 +67,7 @@ document.getElementById('submitBtn').addEventListener('click', async () => {
 
 // Botão limpar
 document.getElementById('resetBtn').addEventListener('click', () => {
-  document.getElementById('dataSintoma').value = '';
-  document.getElementById('dataNotificacao').value = '';
-  document.getElementById('dataInvestigacao').value = '';
+  document.getElementById('dynamicForm').reset();
   document.getElementById('unidadeSelect').value = '';
   document.getElementById('resultBox').classList.add('oculto');
 });
