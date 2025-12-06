@@ -82,7 +82,16 @@ def extract_unidades_from_colunas(cols: List[str]) -> List[str]:
             unidades.append(c.replace("UNIDADE_", ""))
     return unidades
 
-UNIDADES = extract_unidades_from_colunas(colunas)
+unidades_ui_path = os.path.join(ROOT_DIR, "unidades_ui.json")
+UNIDADES_UI = []
+
+if os.path.exists(unidades_ui_path):
+    with open(unidades_ui_path, "r", encoding="utf-8") as f:
+        UNIDADES_UI = json.load(f)
+else:
+    print("Aviso: unidades_ui.json não encontrado. Usando IDs brutos.")
+    raw_ids = extract_unidades_from_colunas(colunas)
+    UNIDADES_UI = [{"id": uid, "nome": uid} for uid in raw_ids]
 
 # ================================
 # 🔹 Função de previsão
@@ -98,6 +107,8 @@ def fazer_previsao(tempo_sin, tempo_invest, unidade):
     unidade_col = f"UNIDADE_{unidade}"
     if unidade_col in linha:
         linha[unidade_col] = 1
+    else:
+        print(f"Aviso: Unidade '{unidade_col}' não encontrada nas colunas do modelo.")
 
     df = pd.DataFrame([linha])
 
@@ -112,7 +123,7 @@ def fazer_previsao(tempo_sin, tempo_invest, unidade):
 # ================================
 @app.get("/unidades")
 def get_unidades():
-    return UNIDADES
+    return UNIDADES_UI
 
 @app.post("/predict")
 def predict(data: PredictRequest):

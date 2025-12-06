@@ -1,0 +1,806 @@
+[
+  {
+    "id": "710091.0",
+    "nome": "3S SOLUCAO SERVICO E SAUDE"
+  },
+  {
+    "id": "4274350.0",
+    "nome": "ABAS"
+  },
+  {
+    "id": "2189003.0",
+    "nome": "ABB ELETRIFICACAO LTDA"
+  },
+  {
+    "id": "2189011.0",
+    "nome": "ABERTTA SAUDE"
+  },
+  {
+    "id": "2155478.0",
+    "nome": "ALEXANDRE ANDRADE SANTA CECILIA"
+  },
+  {
+    "id": "4039777.0",
+    "nome": "AMIPRO"
+  },
+  {
+    "id": "2847183.0",
+    "nome": "ANTONIO OLINTHO FOSSA JUNIOR"
+  },
+  {
+    "id": "890103.0",
+    "nome": "APOIO DIAGNOSE UNIMED BH"
+  },
+  {
+    "id": "3516458.0",
+    "nome": "ASSOCIACAO SAO JUDAS TADEU"
+  },
+  {
+    "id": "6669387.0",
+    "nome": "BARTIRA VIANA OLIVE DE SOUZA DOMINGOS"
+  },
+  {
+    "id": "7319576.0",
+    "nome": "CAPS III ELDORADO"
+  },
+  {
+    "id": "6711243.0",
+    "nome": "CDI CLINICA DE IMAGEM JK"
+  },
+  {
+    "id": "7459866.0",
+    "nome": "CENTRO CLINICO PETROLANDIA"
+  },
+  {
+    "id": "2190028.0",
+    "nome": "CENTRO DE APOIO A SAUDE DA FAMILIA NACIONAL"
+  },
+  {
+    "id": "2190079.0",
+    "nome": "CENTRO DE APOIO A SAUDE DA FAMILIA RESSACA"
+  },
+  {
+    "id": "2189941.0",
+    "nome": "CENTRO DE ATENCAO ESPECIALIZADA IRIA DINIZ CAE IRIA DINIZ"
+  },
+  {
+    "id": "3473805.0",
+    "nome": "CENTRO DE ATENCAO ESPECIALIZADA RESSACA CAE RESSACA"
+  },
+  {
+    "id": "2189887.0",
+    "nome": "CENTRO DE CONSULTAS ESPECIALIZADAS CONFRADE GERALDO COTUTA"
+  },
+  {
+    "id": "6514065.0",
+    "nome": "CENTRO DIAGNOSTICO POR IMAGEM CLINICA IMAGEM HMC"
+  },
+  {
+    "id": "2191164.0",
+    "nome": "CENTRO MATERNO INFANTIL"
+  },
+  {
+    "id": "910007.0",
+    "nome": "CIEVS CONTAGEM"
+  },
+  {
+    "id": "7203144.0",
+    "nome": "CLINICA JK"
+  },
+  {
+    "id": "7409532.0",
+    "nome": "CLINICA MEDICA E PSICOLOGICA METROPOLE"
+  },
+  {
+    "id": "3645266.0",
+    "nome": "CLINICA ODONTOLOGICA AGUA BRANCA LTDA"
+  },
+  {
+    "id": "9046283.0",
+    "nome": "CLINICA ODONTOLOGICA NACIONAL"
+  },
+  {
+    "id": "2191121.0",
+    "nome": "CONSELHO MUNICIPAL DA MULHER DE CONTAGEM"
+  },
+  {
+    "id": "9485198.0",
+    "nome": "CSO CONTAGEM CENTRO ODONTOLOGICO DE SAUDE"
+  },
+  {
+    "id": "6972950.0",
+    "nome": "DISTRITO SANITARIO ELDORADO"
+  },
+  {
+    "id": "6972926.0",
+    "nome": "DISTRITO SANITARIO INDUSTRIAL"
+  },
+  {
+    "id": "6825974.0",
+    "nome": "DISTRITO SANITARIO NACIONAL"
+  },
+  {
+    "id": "6828817.0",
+    "nome": "DISTRITO SANITARIO PETROLANDIA"
+  },
+  {
+    "id": "6828809.0",
+    "nome": "DISTRITO SANITARIO RESSACA"
+  },
+  {
+    "id": "9053166.0",
+    "nome": "DISTRITO SANITARIO RIACHO"
+  },
+  {
+    "id": "6822819.0",
+    "nome": "DISTRITO SANITARIO SEDE"
+  },
+  {
+    "id": "6822762.0",
+    "nome": "DISTRITO SANITARIO VARGEM DAS FLORES"
+  },
+  {
+    "id": "1052993.0",
+    "nome": "DROGARIA E PERFUMARIA JRS EIRELI"
+  },
+  {
+    "id": "3713369.0",
+    "nome": "ELCORDIS"
+  },
+  {
+    "id": "2844273.0",
+    "nome": "FHSFA"
+  },
+  {
+    "id": "2198908.0",
+    "nome": "FUNDACAO DOS EMPREGADOS DA FIAT AUTOMOVEIS POSTO DE SAUDE"
+  },
+  {
+    "id": "7969252.0",
+    "nome": "HEMODINAMICA SANTA RITA"
+  },
+  {
+    "id": "7333595.0",
+    "nome": "HERMES PARDINI ELDORADO II"
+  },
+  {
+    "id": "7348983.0",
+    "nome": "HERMES PARDINI PETROLANDIA"
+  },
+  {
+    "id": "2189275.0",
+    "nome": "HERNANE SALDANHA LOPES"
+  },
+  {
+    "id": "2200473.0",
+    "nome": "HOSPITAL MUNICIPAL DE CONTAGEM"
+  },
+  {
+    "id": "2220423.0",
+    "nome": "HOSPITAL SANTA HELENA"
+  },
+  {
+    "id": "2154757.0",
+    "nome": "HOSPITAL SANTA RITA"
+  },
+  {
+    "id": "2154749.0",
+    "nome": "HOSPITAL SAO JOSE"
+  },
+  {
+    "id": "9704930.0",
+    "nome": "INSTITUTO HERMES PARDINI FILIAL CONTAGEM CENTRO"
+  },
+  {
+    "id": "9789774.0",
+    "nome": "INSTITUTO HERMES PARDINI FILIAL ELDORADO III"
+  },
+  {
+    "id": "7348975.0",
+    "nome": "INSTITUTO HERMES PARDINI UNIDADE INDUSTRIAL"
+  },
+  {
+    "id": "9568174.0",
+    "nome": "INSTITUTO HERMES PARDINI UNIDADE RESSACA"
+  },
+  {
+    "id": "633305.0",
+    "nome": "ISABELA GONCALVES DE CARVALHO COIMBRA"
+  },
+  {
+    "id": "5776112.0",
+    "nome": "JOSE DARCY DOS SANTOS"
+  },
+  {
+    "id": "460745.0",
+    "nome": "LABCON LABORATORIO DE CONTAGEM"
+  },
+  {
+    "id": "6855865.0",
+    "nome": "LABICON LABORATORIO BIOQUIMICO DE CONTAGEM"
+  },
+  {
+    "id": "6151167.0",
+    "nome": "LABORATORIO GERALDO LUSTOSA UNIDADE CONTAGEM"
+  },
+  {
+    "id": "2191016.0",
+    "nome": "LABORATORIO HERMES PARDINI UNIDADE ELDORADO 1"
+  },
+  {
+    "id": "4427858.0",
+    "nome": "LABORATORIO LAPECCO LTDA"
+  },
+  {
+    "id": "394947.0",
+    "nome": "LABORCLINICA"
+  },
+  {
+    "id": "416886.0",
+    "nome": "LABORCLINICA"
+  },
+  {
+    "id": "554073.0",
+    "nome": "LABORCLINICA"
+  },
+  {
+    "id": "948209.0",
+    "nome": "LABORCLINICA"
+  },
+  {
+    "id": "7741146.0",
+    "nome": "LABORCLINICA"
+  },
+  {
+    "id": "5894190.0",
+    "nome": "MARCOS ANTONIO DO NASCIMENTO"
+  },
+  {
+    "id": "2155249.0",
+    "nome": "MARIA DE FATIMA ARETES MEDINA"
+  },
+  {
+    "id": "3428796.0",
+    "nome": "MARIA GORETTI LACERDA DE ARAUJO"
+  },
+  {
+    "id": "6966640.0",
+    "nome": "MEDICINA NUCLEAR CONTAGEM"
+  },
+  {
+    "id": "2188112.0",
+    "nome": "MOACIR GUILHERME DA COSTA"
+  },
+  {
+    "id": "2838702.0",
+    "nome": "NOTRE DAME INTERMEDICA MINAS GERAIS SAUDE S A"
+  },
+  {
+    "id": "4133374.0",
+    "nome": "NOTRE DAME INTERMEDICA MINAS GERAIS SAUDE S A"
+  },
+  {
+    "id": "7929528.0",
+    "nome": "NUCLEO DE SAUDE E BEM ESTAR DE CONTAGEM"
+  },
+  {
+    "id": "3809099.0",
+    "nome": "ODONTO VIVAS"
+  },
+  {
+    "id": "7840322.0",
+    "nome": "PATOLOGIA CLINICA SAO MARCOS LTDA"
+  },
+  {
+    "id": "6363644.0",
+    "nome": "PRONTO ATENDIMENTO E CENTRO DE PROMOCAO A SAUDE UNIMED"
+  },
+  {
+    "id": "7139357.0",
+    "nome": "SAMU USA 08 CEASA COBOM II"
+  },
+  {
+    "id": "7138741.0",
+    "nome": "SAMU USB 06 UPA VARGEM DAS FLORES"
+  },
+  {
+    "id": "7658125.0",
+    "nome": "SAO MARCOS UNIDADE ABEB CONTAGEM"
+  },
+  {
+    "id": "6683118.0",
+    "nome": "SAO MARCOS UNIDADE CENTRO DE CONTAGEM"
+  },
+  {
+    "id": "6151841.0",
+    "nome": "SAO MARCOS UNIDADE ELDORADO"
+  },
+  {
+    "id": "7925352.0",
+    "nome": "SAO MARCOS UNIDADE JARDIM RIACHO"
+  },
+  {
+    "id": "7658133.0",
+    "nome": "SAO MARCOS UNIDADE JOSE FARIA DA ROCHA"
+  },
+  {
+    "id": "7740085.0",
+    "nome": "SAO MARCOS UNIDADE NOVO RIACHO"
+  },
+  {
+    "id": "6669735.0",
+    "nome": "SAO MARCOS UNIDADE RESSACA"
+  },
+  {
+    "id": "7814542.0",
+    "nome": "SAO MARCOS UNIDADE TIRADENTES"
+  },
+  {
+    "id": "6374794.0",
+    "nome": "SECRETARIA MUNICIPAL DE SAUDE DE CONTAGEM"
+  },
+  {
+    "id": "7404972.0",
+    "nome": "SOCIEDADE MEDICA DO HOSPITAL E MATERNIDADE SANTA HELENA LTDA"
+  },
+  {
+    "id": "2190052.0",
+    "nome": "UNIDADE BASICA DE SAUDE AGUA BRANCA"
+  },
+  {
+    "id": "2191032.0",
+    "nome": "UNIDADE BASICA DE SAUDE ALVORADA"
+  },
+  {
+    "id": "7301189.0",
+    "nome": "UNIDADE BASICA DE SAUDE AMAZONAS"
+  },
+  {
+    "id": "2189976.0",
+    "nome": "UNIDADE BASICA DE SAUDE AMAZONAS I"
+  },
+  {
+    "id": "2190923.0",
+    "nome": "UNIDADE BASICA DE SAUDE AMENDOEIRAS"
+  },
+  {
+    "id": "2190427.0",
+    "nome": "UNIDADE BASICA DE SAUDE ARPOADOR"
+  },
+  {
+    "id": "2190680.0",
+    "nome": "UNIDADE BASICA DE SAUDE BANDEIRANTES"
+  },
+  {
+    "id": "2190699.0",
+    "nome": "UNIDADE BASICA DE SAUDE BARRAGINHA"
+  },
+  {
+    "id": "2191040.0",
+    "nome": "UNIDADE BASICA DE SAUDE BELA VISTA"
+  },
+  {
+    "id": "2190109.0",
+    "nome": "UNIDADE BASICA DE SAUDE CAMPINA VERDE"
+  },
+  {
+    "id": "6755976.0",
+    "nome": "UNIDADE BASICA DE SAUDE CAMPO ALTO"
+  },
+  {
+    "id": "2190478.0",
+    "nome": "UNIDADE BASICA DE SAUDE CANADA"
+  },
+  {
+    "id": "2190605.0",
+    "nome": "UNIDADE BASICA DE SAUDE CANDIDA FERREIRA"
+  },
+  {
+    "id": "2189968.0",
+    "nome": "UNIDADE BASICA DE SAUDE CENTRO"
+  },
+  {
+    "id": "2190397.0",
+    "nome": "UNIDADE BASICA DE SAUDE CHACARAS"
+  },
+  {
+    "id": "2190591.0",
+    "nome": "UNIDADE BASICA DE SAUDE COLORADO"
+  },
+  {
+    "id": "2190818.0",
+    "nome": "UNIDADE BASICA DE SAUDE DARCY RIBEIRO"
+  },
+  {
+    "id": "2190451.0",
+    "nome": "UNIDADE BASICA DE SAUDE DUQUE DE CAXIAS"
+  },
+  {
+    "id": "2190141.0",
+    "nome": "UNIDADE BASICA DE SAUDE DURVAL DE BARROS"
+  },
+  {
+    "id": "2190095.0",
+    "nome": "UNIDADE BASICA DE SAUDE ELDORADO"
+  },
+  {
+    "id": "2190753.0",
+    "nome": "UNIDADE BASICA DE SAUDE ESTALEIRO"
+  },
+  {
+    "id": "7053355.0",
+    "nome": "UNIDADE BASICA DE SAUDE ESTANCIAS IMPERIAIS"
+  },
+  {
+    "id": "2190931.0",
+    "nome": "UNIDADE BASICA DE SAUDE ESTRELA DALVA"
+  },
+  {
+    "id": "2189909.0",
+    "nome": "UNIDADE BASICA DE SAUDE FLAMENGO"
+  },
+  {
+    "id": "2220261.0",
+    "nome": "UNIDADE BASICA DE SAUDE FUNCIONARIOS"
+  },
+  {
+    "id": "2190826.0",
+    "nome": "UNIDADE BASICA DE SAUDE ICAIVERA"
+  },
+  {
+    "id": "2190885.0",
+    "nome": "UNIDADE BASICA DE SAUDE ILDA EFIGENIA"
+  },
+  {
+    "id": "4275454.0",
+    "nome": "UNIDADE BASICA DE SAUDE INCONFIDENTES"
+  },
+  {
+    "id": "2189933.0",
+    "nome": "UNIDADE BASICA DE SAUDE INDUSTRIAL III SECAO"
+  },
+  {
+    "id": "2190788.0",
+    "nome": "UNIDADE BASICA DE SAUDE IPE AMARELO"
+  },
+  {
+    "id": "2190001.0",
+    "nome": "UNIDADE BASICA DE SAUDE JARDIM BANDEIRANTES"
+  },
+  {
+    "id": "2220245.0",
+    "nome": "UNIDADE BASICA DE SAUDE JARDIM ELDORADO"
+  },
+  {
+    "id": "2189992.0",
+    "nome": "UNIDADE BASICA DE SAUDE JARDIM INDUSTRIAL"
+  },
+  {
+    "id": "2190214.0",
+    "nome": "UNIDADE BASICA DE SAUDE JOAO EVANGELISTA"
+  },
+  {
+    "id": "2190893.0",
+    "nome": "UNIDADE BASICA DE SAUDE JOAQUIM MURTINHO"
+  },
+  {
+    "id": "2190184.0",
+    "nome": "UNIDADE BASICA DE SAUDE LAGUNA"
+  },
+  {
+    "id": "2190176.0",
+    "nome": "UNIDADE BASICA DE SAUDE LINDA VISTA"
+  },
+  {
+    "id": "2191059.0",
+    "nome": "UNIDADE BASICA DE SAUDE MARIA DA CONCEICAO"
+  },
+  {
+    "id": "2189984.0",
+    "nome": "UNIDADE BASICA DE SAUDE MOACIR PINTO MOREIRA"
+  },
+  {
+    "id": "2191199.0",
+    "nome": "UNIDADE BASICA DE SAUDE MONTE CASTELO"
+  },
+  {
+    "id": "2191229.0",
+    "nome": "UNIDADE BASICA DE SAUDE MORADA NOVA"
+  },
+  {
+    "id": "2190222.0",
+    "nome": "UNIDADE BASICA DE SAUDE NACIONAL"
+  },
+  {
+    "id": "181854.0",
+    "nome": "UNIDADE BASICA DE SAUDE NASCENTES IMPERIAIS"
+  },
+  {
+    "id": "2190710.0",
+    "nome": "UNIDADE BASICA DE SAUDE NOVA CONTAGEM"
+  },
+  {
+    "id": "2190834.0",
+    "nome": "UNIDADE BASICA DE SAUDE NOVA CONTAGEM I"
+  },
+  {
+    "id": "6557864.0",
+    "nome": "UNIDADE BASICA DE SAUDE NOVO ELDORADO"
+  },
+  {
+    "id": "2190559.0",
+    "nome": "UNIDADE BASICA DE SAUDE NOVO PROGRESSO I"
+  },
+  {
+    "id": "2190567.0",
+    "nome": "UNIDADE BASICA DE SAUDE NOVO PROGRESSO II"
+  },
+  {
+    "id": "2190044.0",
+    "nome": "UNIDADE BASICA DE SAUDE NOVO RIACHO"
+  },
+  {
+    "id": "2190877.0",
+    "nome": "UNIDADE BASICA DE SAUDE OITIS"
+  },
+  {
+    "id": "2190990.0",
+    "nome": "UNIDADE BASICA DE SAUDE PARQUE SAO JOAO"
+  },
+  {
+    "id": "2190494.0",
+    "nome": "UNIDADE BASICA DE SAUDE PARQUE TURISTA"
+  },
+  {
+    "id": "2190966.0",
+    "nome": "UNIDADE BASICA DE SAUDE PEROBAS"
+  },
+  {
+    "id": "2190206.0",
+    "nome": "UNIDADE BASICA DE SAUDE PETROLANDIA"
+  },
+  {
+    "id": "7110316.0",
+    "nome": "UNIDADE BASICA DE SAUDE PRAIA"
+  },
+  {
+    "id": "2190869.0",
+    "nome": "UNIDADE BASICA DE SAUDE PRESIDENTE KENNEDY"
+  },
+  {
+    "id": "2191148.0",
+    "nome": "UNIDADE BASICA DE SAUDE PRESIDENTE VARGAS"
+  },
+  {
+    "id": "2190540.0",
+    "nome": "UNIDADE BASICA DE SAUDE RETIRO"
+  },
+  {
+    "id": "2190761.0",
+    "nome": "UNIDADE BASICA DE SAUDE RETIRO II"
+  },
+  {
+    "id": "2189844.0",
+    "nome": "UNIDADE BASICA DE SAUDE RIACHO"
+  },
+  {
+    "id": "2190192.0",
+    "nome": "UNIDADE BASICA DE SAUDE SANDOVAL DE AZEVEDO"
+  },
+  {
+    "id": "4311833.0",
+    "nome": "UNIDADE BASICA DE SAUDE SANTA CRUZ"
+  },
+  {
+    "id": "2190389.0",
+    "nome": "UNIDADE BASICA DE SAUDE SANTA HELENA"
+  },
+  {
+    "id": "2190486.0",
+    "nome": "UNIDADE BASICA DE SAUDE SAO JOAQUIM"
+  },
+  {
+    "id": "2190656.0",
+    "nome": "UNIDADE BASICA DE SAUDE SAO JUDAS TADEU"
+  },
+  {
+    "id": "2190524.0",
+    "nome": "UNIDADE BASICA DE SAUDE SAO LUIZ I"
+  },
+  {
+    "id": "2190508.0",
+    "nome": "UNIDADE BASICA DE SAUDE SAO LUIZ II"
+  },
+  {
+    "id": "2190435.0",
+    "nome": "UNIDADE BASICA DE SAUDE SAPUCAIAS"
+  },
+  {
+    "id": "7019122.0",
+    "nome": "UNIDADE BASICA DE SAUDE SAPUCAIAS II"
+  },
+  {
+    "id": "5193265.0",
+    "nome": "UNIDADE BASICA DE SAUDE SESC"
+  },
+  {
+    "id": "7116306.0",
+    "nome": "UNIDADE BASICA DE SAUDE TIJUCA"
+  },
+  {
+    "id": "7020031.0",
+    "nome": "UNIDADE BASICA DE SAUDE TROPICAL I"
+  },
+  {
+    "id": "2190400.0",
+    "nome": "UNIDADE BASICA DE SAUDE TROPICAL II"
+  },
+  {
+    "id": "4696077.0",
+    "nome": "UNIDADE BASICA DE SAUDE UNIDADE XVI"
+  },
+  {
+    "id": "2191202.0",
+    "nome": "UNIDADE BASICA DE SAUDE VILA DINIZ"
+  },
+  {
+    "id": "2190796.0",
+    "nome": "UNIDADE BASICA DE SAUDE VILA ESPERANCA"
+  },
+  {
+    "id": "2191024.0",
+    "nome": "UNIDADE BASICA DE SAUDE VILA ITALIA"
+  },
+  {
+    "id": "2190532.0",
+    "nome": "UNIDADE BASICA DE SAUDE VILA PEROLA"
+  },
+  {
+    "id": "2190648.0",
+    "nome": "UNIDADE BASICA DE SAUDE VILA RENASCER"
+  },
+  {
+    "id": "2190060.0",
+    "nome": "UNIDADE BASICA DE SAUDE VILA SAO PAULO"
+  },
+  {
+    "id": "2190729.0",
+    "nome": "UNIDADE BASICA DE SAUDE VILA SOLEDADE"
+  },
+  {
+    "id": "2190915.0",
+    "nome": "UNIDADE BASICA DE SAUDE XANGRILA"
+  },
+  {
+    "id": "2190087.0",
+    "nome": "UNIDADE BASICA DE SAUDE XV"
+  },
+  {
+    "id": "4317041.0",
+    "nome": "UNIDADE DE PRONTO ATENDIMENTO INDUSTRIAL UPA"
+  },
+  {
+    "id": "2190125.0",
+    "nome": "UNIDADE DE PRONTO ATENDIMENTO PETROLANDIA UPA"
+  },
+  {
+    "id": "2189879.0",
+    "nome": "UNIDADE DE PRONTO ATENDIMENTO RESSACA UPA"
+  },
+  {
+    "id": "6008054.0",
+    "nome": "UNIDADE DE PRONTO ATENDIMENTO UNIDADE XVI UPA XVI"
+  },
+  {
+    "id": "2189860.0",
+    "nome": "UNIDADE DE PRONTO ATENDIMENTO VARGEM DAS FLORES UPA"
+  },
+  {
+    "id": "2189917.0",
+    "nome": "UNIDADE DE REFERENCIA A SAUDE DA FAMILIA PARQUE SAO JOAO"
+  },
+  {
+    "id": "263478.0",
+    "nome": "UNIDADE DE REFERENCIA A SAUDE DA FAMILIA RESSACA"
+  },
+  {
+    "id": "2198967.0",
+    "nome": "UNIDADE DE REFERENCIA A SAUDE DA FAMILIA VARGEM DAS FLORES"
+  },
+  {
+    "id": "2190443.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA ARVOREDO USF 32"
+  },
+  {
+    "id": "2190958.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA CAIAPOS USF 21"
+  },
+  {
+    "id": "2220296.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA CONFISCO I USF 30"
+  },
+  {
+    "id": "2220318.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA ESTRELA DALVA USF 54"
+  },
+  {
+    "id": "2191210.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA FUNCIONARIOS II USF 55"
+  },
+  {
+    "id": "7110898.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA GRANJA VISTA ALEGRE USF 93"
+  },
+  {
+    "id": "2221810.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA JARDIM ELDORADO I USF 74"
+  },
+  {
+    "id": "2190575.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA JARDIM LAGUNA I USF 40"
+  },
+  {
+    "id": "2190982.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA JARDIM LAGUNA III USF 42"
+  },
+  {
+    "id": "2190974.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA NACIONAL I USF 22"
+  },
+  {
+    "id": "2190230.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA NACIONAL II USF 23"
+  },
+  {
+    "id": "7747586.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA NOSSA SENHORA DA CONCEICAO USF97"
+  },
+  {
+    "id": "2190516.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA PARQUE RECREIO USF 35"
+  },
+  {
+    "id": "2191008.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA PARQUE SAO JOAO II USF 76"
+  },
+  {
+    "id": "2190842.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA RETIRO III USF 03"
+  },
+  {
+    "id": "2191180.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA SANTA HELENA II USF 65"
+  },
+  {
+    "id": "2190850.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA SAO JUDAS TADEU I USF 04"
+  },
+  {
+    "id": "2191172.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA VALE DAS AMENDOEIRAS USF 25"
+  },
+  {
+    "id": "2190621.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA VILA PEROLA II USF 84"
+  },
+  {
+    "id": "2190745.0",
+    "nome": "UNIDADE DE SAUDE DA FAMILIA VILA SOLEDADE II USF 10"
+  },
+  {
+    "id": "6166067.0",
+    "nome": "UNIDADE ODONTOLOGICA INCONFIDENTES"
+  },
+  {
+    "id": "7818858.0",
+    "nome": "UNIDADE PRONTO ATENDIMENTO CONTAGEM"
+  },
+  {
+    "id": "2189852.0",
+    "nome": "UNIDADE PRONTO ATENDIMENTO GERALDO PINTO VIEIRA UPA JK"
+  },
+  {
+    "id": "2190737.0",
+    "nome": "Unidade 2190737"
+  }
+]
